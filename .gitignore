@@ -3,3 +3,7 @@
 ################################################################################
 
 /flipper/.vs
+/flipper/flipper.domain.core/bin/Debug/net6.0
+/flipper/flipper.domain.core/obj
+/flipper/flipper.domain.core.test/bin/Debug/net6.0
+/flipper/flipper.domain.core.test/obj
