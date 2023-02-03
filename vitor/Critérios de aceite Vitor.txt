@@ -1,0 +1,40 @@
+Critério de aceite do controle de ponto
+
+- loguin para logar no app com e-mail e senha, e ajuda no caso de não lembrar a senha
+
+- tela de acesso com apresentação, nome do usuário, data, hora local
+
+- acesso para marcação de ponto via reconhecimento facial e digital
+
+- ter um menu para usuário acessar informações de cadastro, banco de horas, mudar senha, ultimos regeistros
+
+- informações:
+	Nome
+	Rg
+	Código
+	Função
+	Jornada
+	Intervalos
+
+- Banco de dados:
+
+	inicio do ciclo (quando vira o mês do contratado)
+	total de horas trabalhadas 00 de 360h
+	dia da folga
+	horas abonadas
+	horas devidas
+
+- Ajuda:
+
+	Mudança de senha
+	alteração de registro
+	abonar horário
+
+- Registro:
+
+	4 ultimos acessos com informações
+entrada (data, horário, local)
+intervalo (data, horário, local)
+fim do intervalo
+saída
+	
