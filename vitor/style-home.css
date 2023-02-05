@@ -4,13 +4,11 @@
    
 }
 
-.principal{
-	background: #CCCCCC;
-	padding: 30px;
-}
+.h1 {
+font-size:xx-large;
+color: blue;
+font-family:'Courier New', Courier, monospace;
 
-.titulo-principal {
-	padding-left: 20px;
 }
 
 .titulo-centralizado {
@@ -38,9 +36,3 @@ em strong {
 	padding: 20px;
 }
 
-ul {
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
-}
