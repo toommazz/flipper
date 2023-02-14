@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj": {}
+    "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj": {
+    "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj",
         "projectName": "Poseidon.Flipper.People.Domain.Core",
-        "projectPath": "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\Souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\obj\\",
+        "projectPath": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,6 +50,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -59,17 +73,17 @@
         }
       }
     },
-    "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj": {
+    "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj",
         "projectName": "Poseidon.Flipper.People.Domain",
-        "projectPath": "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj",
-        "packagesPath": "C:\\Users\\Souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\obj\\",
+        "projectPath": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Souza\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj"
+              "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj"
               }
             }
           }
@@ -109,6 +123,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
