@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Poseidon.Flipper.People.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Poseidon.Flipper.People.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Poseidon.Flipper.People.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poseidon.Flipper.People.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../poseidon.flipper.people.domain.core/Poseidon.Flipper.People.Domain.Core.csproj",
+      "msbuildProject": "../poseidon.flipper.people.domain.core/Poseidon.Flipper.People.Domain.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Poseidon.Flipper.People.Domain.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vitor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj",
+      "projectName": "Poseidon.Flipper.People.Domain",
+      "projectPath": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\Poseidon.Flipper.People.Domain.csproj",
+      "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\Poseidon.Flipper.People.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\vitor\\Source\\Repos\\flipper\\poseidon.flipper.people\\poseidon.flipper.people.domain.core\\Poseidon.Flipper.People.Domain.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

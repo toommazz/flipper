@@ -1,0 +1,15 @@
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\bin\Debug\net6.0\Poseidon.Flipper.People.Domain.deps.json
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\bin\Debug\net6.0\Poseidon.Flipper.People.Domain.dll
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\bin\Debug\net6.0\Poseidon.Flipper.People.Domain.pdb
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\bin\Debug\net6.0\Poseidon.Flipper.People.Domain.Core.dll
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\bin\Debug\net6.0\Poseidon.Flipper.People.Domain.Core.pdb
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\Poseidon.Flipper.People.Domain.csproj.AssemblyReference.cache
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\Poseidon.Flipper.People.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\Poseidon.Flipper.People.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\Poseidon.Flipper.People.Domain.AssemblyInfo.cs
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\Poseidon.Flipper.People.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\Poseidon.Flipper.People.Domain.csproj.CopyComplete
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\Poseidon.Flipper.People.Domain.dll
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\refint\Poseidon.Flipper.People.Domain.dll
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\Poseidon.Flipper.People.Domain.pdb
+C:\Users\vitor\Source\Repos\flipper\poseidon.flipper.people\Poseidon.Flipper.People.Domain\obj\Debug\net6.0\ref\Poseidon.Flipper.People.Domain.dll
